@@ -1,0 +1,78 @@
+{
+	"seating-capacity": {
+		"row": [
+			{
+				"section": [
+					6,
+					6
+				]
+			},
+			{
+				"section": [
+					3,
+					5,
+					5,
+					3
+				]
+			},
+			{
+				"section": [
+					4,
+					6,
+					6,
+					4
+				]
+			},
+			{
+				"section": [
+					2,
+					8,
+					8,
+					2
+				]
+			},
+			{
+				"section": [
+					6,
+					6
+				]
+			}
+		]
+	},
+	"ticket-request": {
+		"ticket-info": [
+			{
+				"name": "Smith",
+				"tickets": 2
+			},
+			{
+				"name": "Jones",
+				"tickets": 5
+			},
+			{
+				"name": "Davis",
+				"tickets": 6
+			},
+			{
+				"name": "Wilson",
+				"tickets": 100
+			},
+			{
+				"name": "Johnson",
+				"tickets": 3
+			},
+			{
+				"name": "Williams",
+				"tickets": 4
+			},
+			{
+				"name": "Brown",
+				"tickets": 8
+			},
+			{
+				"name": "Miller",
+				"tickets": 12
+			}
+		]
+	}
+}
